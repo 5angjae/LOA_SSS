@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="어서오세요! 로아공유 숙제표를 만들어보려 합니다. 수정 체크"/>
+  <HelloWorld msg="어서오세요! 로아공유 숙제표를 만들어보려 합니다. cicd 체크"/>
 </template>
 
 <script>
